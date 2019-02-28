@@ -1,0 +1,11 @@
+.business {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+    .business__image {
+        background-size: cover;
+        max-height: 250px;
+    }
+}
